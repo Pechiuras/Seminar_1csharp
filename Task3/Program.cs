@@ -1,5 +1,11 @@
 ﻿// Task 3 (дни недели)
 
+// && - и(логическое умножение)
+// || - или(логическое сложение)
+// True - 1
+// False - 0
+// 1 + 0 = 1(True)
+
 Console.Clear();
 Console.Write("Введите день недели: ");
 int n = Convert.ToInt32(Console.ReadLine());
